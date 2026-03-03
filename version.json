@@ -1,7 +1,7 @@
 {
   "firmware": {
     "latest": "1.0.1",
-    "url": "https://raw.githubusercontent.com/PrakashDYN/ESP32_OTA/refs/heads/main/firmware_v1.0.1.bin"
+    "url": "https://raw.githubusercontent.com/PrakashDYN/ESP32_OTA/main/firmware_v1.0.1.bin"
   },
   "devices": {}
 }
